@@ -1,4 +1,4 @@
-# 本项目是基于Vue 3 + TypeScript + Vite + LogicFlow的入门DEMO实例
+# 本项目是Vue3版本LogicFlow的入门DEMO实例
 
 ## 项目主要是2个DEMO (Vue2的版本也可以参考)
 
