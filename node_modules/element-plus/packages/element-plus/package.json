@@ -1,0 +1,59 @@
+{
+  "name": "element-plus",
+  "version": "1.1.0-beta.24",
+  "description": "A Component Library for Vue 3",
+  "homepage": "https://element-plus.org/",
+  "keywords": [
+    "element-plus",
+    "element",
+    "component library",
+    "ui framework",
+    "ui",
+    "vue"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "style": "dist/index.css",
+  "unpkg": "dist/index.full.js",
+  "jsdelivr": "dist/index.full.js",
+  "sideEffects": [
+    "dist/*",
+    "theme-chalk/*.css",
+    "theme-chalk/src/*.scss",
+    "es/components/*/style/*",
+    "lib/components/*/style/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/element-plus/element-plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/element-plus/element-plus/issues"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "@popperjs/core": "^2.10.2",
+    "@vueuse/core": "~6.1.0",
+    "async-validator": "^4.0.3",
+    "dayjs": "^1.10.7",
+    "lodash": "^4.17.21",
+    "memoize-one": "^5.2.1",
+    "normalize-wheel-es": "^1.1.0",
+    "resize-observer-polyfill": "^1.5.1"
+  },
+  "vetur": {
+    "tags": "tags.json",
+    "attributes": "attributes.json"
+  },
+  "web-types": "web-types.json",
+  "browserslist": [
+    "> 1%",
+    "not ie 11",
+    "not op_mini all"
+  ],
+  "gitHead": "2c01c77fed76094592a8265f840fcaac80ca3e7c"
+}
