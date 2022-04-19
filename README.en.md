@@ -2,11 +2,11 @@
 
 ## 项目主要是2个DEMO
 
-![This is a alt text.](/public/1.png)
+![This is a alt text.](./public/1.png)
 * 一个是BPMN流程图，  基于官网的实现
-![This is a alt text.](/public/2.png)
+![This is a alt text.](./public/2.png)
 * 一个是自定义流程图，基于Vue2的demo来实现
-![This is a alt text.](/public/3.png)
+![This is a alt text.](./public/3.png)
 
 
 ### 项目运行
