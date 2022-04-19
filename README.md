@@ -1,24 +1,18 @@
-# 本项目是基于Vue 3 + TypeScript + Vite + LogicFlow的入门DEMO实例
+# 本项目是Vue3版本LogicFlow的入门DEMO实例
 
-## 项目主要是2个DEMO
+## 项目主要是2个DEMO (Vue2的版本也可以参考)
 
-![This is a alt text.](/public/1.png)
-* 一个是BPMN流程图，  基于官网的实现
-![This is a alt text.](/public/2.png)
-* 一个是自定义流程图，基于Vue2的demo来实现
-![This is a alt text.](/public/3.png)
+![This is a alt image](./public/1.png)
+* 一个是BPMN流程图
+![This is a alt image](./public/2.png)
+* 一个是自定义流程图
+![This is a alt image](./public/3.png)
 
 
 ### 项目运行
 
 #### npm install
 #### npm dev
-
-### 项目图例
-
-## Images
-
-
 
 ## Links
 
