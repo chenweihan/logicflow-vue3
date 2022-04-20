@@ -6,11 +6,11 @@
 
 ## 项目主要是2个DEMO (Vue2的版本也可以参考)
 
-![This is a alt image](./public/1.png)
+![图片不可见，可点击码云的链接](./public/1.png)
 * 一个是BPMN流程图
-![This is a alt image](./public/2.png)
+![图片不可见，可点击码云的链接](./public/2.png)
 * 一个是自定义流程图
-![This is a alt image](./public/3.png)
+![图片不可见，可点击码云的链接](./public/3.png)
 
 
 ### 项目运行
