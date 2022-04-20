@@ -12,7 +12,7 @@
 ### 项目运行
 
 #### npm install
-#### npm dev
+#### npm run dev
 
 ## Links
 
