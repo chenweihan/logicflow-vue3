@@ -1,5 +1,9 @@
 # 本项目是Vue3版本LogicFlow的入门DEMO实例
 
+## 链接
+- 码云 https://gitee.com/copperpeas/logicflow-vue3
+- github https://github.com/chenweihan/logicflow-vue3
+
 ## 项目主要是2个DEMO (Vue2的版本也可以参考)
 
 ![This is a alt image](./public/1.png)
@@ -14,6 +18,3 @@
 #### npm install
 #### npm dev
 
-## Links
-
-https://github.com/chenweihan/logicflow-vue3
