@@ -12,9 +12,6 @@
     See more information. <a href="http://logic-flow.org/" target="_blank">LogicFlow</a>
   </p>
 
-  <p @click="gotoTodolist">
-    <span class="link">goto TodoList demo</span>
-  </p>
   <p @click="gotoLogicflowBpmn">
     <span class="link">goto logincflow Bpmn demo</span>
   </p>
